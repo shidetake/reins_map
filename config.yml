@@ -1,0 +1,21 @@
+geocoder:
+  client_id: 'your_client_id'
+search_condition:
+  -
+    prefCodeA:       '東京都'
+    areaCodeA:       '都心5区'
+    areaDescCode:    '指定なし'
+    buildYearNoCode: '5年以内'
+    walk05:          true
+    walk10:          true
+    room02:          true
+    room10:          true
+  -
+    prefCodeA:       '東京都'
+    areaCodeA:       '23区南部'
+    areaDescCode:    '指定なし'
+    buildYearNoCode: '5年以内'
+    walk05:          true
+    walk10:          true
+    room02:          true
+    room10:          true
